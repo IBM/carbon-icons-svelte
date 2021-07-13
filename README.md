@@ -15,12 +15,14 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/931e6a3461434622adad0557579c
 
 ## Install
 
-`carbon-icons-svelte` can be installed using `yarn` or `npm`.
+`carbon-icons-svelte` can be installed using `yarn` or `npm` or `pnpm`.
 
 ```bash
 yarn add -D carbon-icons-svelte
 # OR
 npm i -D carbon-icons-svelte
+# OR
+pnpm i -D carbon-icons-svelte
 ```
 
 ## Usage
